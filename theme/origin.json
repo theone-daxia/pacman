@@ -1,0 +1,12 @@
+{
+  "player": "P",
+  "ghost": "G",
+  "wall": "#",
+  "dot": ".",
+  "pill": "X",
+  "death": "x",
+  "space": " ",
+  "use_emoji": false,
+  "ghost_blue": "G",
+  "pill_duration_secs": 5
+}
